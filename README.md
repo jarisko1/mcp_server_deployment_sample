@@ -1,2 +1,2 @@
-# mcp_server_deployment_sample
-Sample MCP server to be deployed on Render
+## Sample MCP server to be deployed on Render
+- Requires requirements.txt and runtime.txt files
